@@ -1,0 +1,14 @@
+{
+  "name": "tecsup-2023-sa",
+  "version": "1.0.0",
+  "description": "laboratorio06",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samir",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
+}
